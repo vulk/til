@@ -26,9 +26,12 @@ Here's some guidelines on how to write a great TIL:
 * Avoid writing more than 60 lines of content.
 * Avoid writing more than 2 examples.
 * Avoid going into too much detail.
+* Avoid writing TIL's that explicitly violate [our guides].
 
 If you find TIL straying from these guidelines consider narrowing the scope of
 your TIL or writing a blog post on the subject.
+
+[our guides]: https://github.com/thoughtbot/guides
 
 License
 -------
