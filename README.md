@@ -16,6 +16,20 @@ you might also like
 
 [Upcase]: https://upcase.com?utm_source=til
 
+## Contributing a TIL
+
+TIL's should be a focused and concise piece of knowledge that's interesting and
+worth sharing with others.
+
+Here's some guidelines on how to write a great TIL:
+
+* Avoid writing more than 60 lines of content.
+* Avoid writing more than 2 examples.
+* Avoid getting into too much detail.
+
+If you find TIL straying from these guidelines consider narrowing the scope of
+your TIL or writing a blog post on the subject.
+
 License
 -------
 
