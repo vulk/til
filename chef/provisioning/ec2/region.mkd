@@ -1,0 +1,8 @@
+
+Would be nice to quickly pull out or region from within recipe code. Currently I'm doing the following:
+
+```
+the_region = ENV["AWS_DEFAULT_REGION"]
+the_region ||= Chef::Provisioning.default_driver.aws_credentials.default[:region]
+the_region ||= Chef::Provisioning.default_driver.config.driver.split(':')[2]
+```
